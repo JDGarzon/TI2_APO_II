@@ -1,6 +1,6 @@
 # TI2_APO_II
-##Juan David Garzon DIaz
+## Juan David Garzon DIaz
 
-##Johan Felipe Jojoa
+## Johan Felipe Jojoa
 
-##Geovanny Quintero
+## Geovanny Quintero
